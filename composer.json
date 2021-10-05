@@ -1,0 +1,16 @@
+{
+    "name": "zeitoon/validation",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Zeitoon\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad138091",
+            "email": "mohammadfarahani10141380@gmail.com"
+        }
+    ],
+    "require": {}
+}
